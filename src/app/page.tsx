@@ -3,7 +3,7 @@ import Link from "next/link";
 export default async function Home() {
   return (
     <div className="text-black ">
-        <div className="text-white h-24 fixed top-0  bg-black text-2xl font-serif pt-4 mb-4">
+        <div className="text-white h-24  bg-black text-2xl font-serif pt-4 mb-4">
      <div className=" flex justify-center items-center font-serif  text-2xl"><h1>Blog Website With Sanity And Next Js</h1></div>
      <div className="flex justify-around mt-1">
     
@@ -19,7 +19,7 @@ export default async function Home() {
        width={1200}
        height={200}
      />
-       <footer className=" mt-1 bottom-0 flex items-center justify-between text-white ps-3 pe-5  h-14 bg-black">
+       <footer className=" mt-1  flex items-center justify-between text-white ps-3 pe-5  h-14 bg-black">
           <p>Powered By Sardar Moazzam,@ All rights reserved</p>{" "}
           <p>Privacy Policy Treams of Service</p>
         </footer>
