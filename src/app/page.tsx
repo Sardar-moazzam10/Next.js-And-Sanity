@@ -12,7 +12,7 @@ export default async function Home() {
      <Link href="/Aurthor">Aurthor</Link></div>
 
 </div>
-<div className="text-black font-serif text-5xl ms-5 mt-28  "><h1 >Javascript and Sanity. This starter is a statically generated blog that uses Next. js App Router for the frontend and Sanity to handle its content. It comes with a native Sanity Studio that offers features like real-time collaboration and visual editing with live updates using Presentation.</h1> 
+<div className="text-black font-serif text-5xl ms-5 flex justify-center items-center flex-col mt-28  "><h1 >Javascript and Sanity. This starter is a statically generated blog that uses Next. js App Router for the frontend and Sanity to handle its content. It comes with a native Sanity Studio that offers features like real-time collaboration and visual editing with live updates using Presentation.</h1> 
      <Image className=" mb-1 mt-1"
        src="/next js and sanity.jpg"
        alt="Picture"

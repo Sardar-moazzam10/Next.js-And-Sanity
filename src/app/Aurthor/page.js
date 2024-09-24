@@ -29,7 +29,7 @@ const aurthorpage = async () => {
           return (
             <div
               key={i}
-              className="text-3xl text-black flex justify-around mt-28"
+              className="text-3xl text-black flex justify-around items-center  mt-28"
             >
               Aurthor Name:{val.AurthorName},<br />
               <Image src={val.imageUrl} alt="alt" width={200} height={200} />

@@ -28,7 +28,7 @@ const bookpage = async () => {
           return (
             <div
               key={i}
-              className="text-3xl text-black flex justify-around mt-28 mb-10"
+              className="text-3xl text-black flex justify-around items-center mt-28 mb-10"
             >
               Book Name:{val.BookTitle}
               <br />
