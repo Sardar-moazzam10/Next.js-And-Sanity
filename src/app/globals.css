@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+.header{
+width: 100%;
+}
+.footer{
+    width: 100%;
+    }
