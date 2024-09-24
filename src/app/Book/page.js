@@ -13,7 +13,7 @@ const bookpage = async () => {
   // console.log(Dta);
   return (
     <div className="text-black">
-      <div className="header text-white fixed top-0 h-24 bg-black text-2xl font-serif">
+      <div className="header pt-2 text-white fixed top-0 h-24 bg-black text-2xl font-serif">
         <div className=" flex justify-center items-center text-2xl">
           <h1>Blog Website With Sanity And Next Js</h1>
         </div>
